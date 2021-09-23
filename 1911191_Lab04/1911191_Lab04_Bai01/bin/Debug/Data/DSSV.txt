@@ -1,0 +1,9 @@
+﻿1512451;Nguyễn Xuân Thắng;12/5/1998;01 Phù Đổng Thiên Vương, P8, Đà Lạt;CTK40;D:\Images\;1;0909842231;1512451@dlu.edu.vn
+1610195;Nguyễn Đức Duy Ân;24/2/1998;01 Phù Đổng Thiên Vương, P8, Đà Lạt;CTK40;D:\Images\;1;0917247583;1610195@dlu.edu.vn
+1610167;Nguyễn Quốc Anh;08/10/1998;01 Phù Đổng Thiên Vương, P8, Đà Lạt;CTK40;D:\Images\;1;0912748572;1610167@dlu.edu.vn
+1611288;Lê Nhật Ánh;10/07/1998;01 Phù Đổng Thiên Vương, P8, Đà Lạt;CTK40;D:\Images\;1;0362874353;1611288@dlu.edu.vn
+1612166;Võ Thị Thu Ngân;16/3/1998;01 Phù Đổng Thiên Vương, P8, Đà Lạt;CTK40;D:\Images\;0;0369283586;1612166@dlu.edu.vn
+1610089;Hứa Duy Băng;18/1/1998;01 Phù Đổng Thiên Vương, P8, Đà Lạt;CTK40;D:\Images\;1;0912845756;1610089@dlu.edu.vn
+1610094;Lê Thùy Lan Chi;3/7/1998;01 Phù Đổng Thiên Vương, P8, Đà Lạt;CTK40;D:\Images\;0;0923475385;1610094@dlu.edu.vn
+1611290;Trần Huỳnh Quốc Bảo;28/7/1998;01 Phù Đổng Thiên Vương, P8, Đà Lạt;CTK40;D:\Images\;1;0957237485;1611290@dlu.edu.vn
+1611091;Phan Đình Huỳnh Bảo;14/11/1998;01 Phù Đổng Thiên Vương, P8, Đà Lạt;CTK40;D:\Images\;1;0358478357;1611091@dlu.edu.vn
